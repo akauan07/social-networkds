@@ -50,12 +50,14 @@ body.white-blue {
 .menu {
         width: 300px;
         margin: 60px auto;
+        float: left;
 }
 
 .menu li {
+
         width: 60px;
         float: left;
-        margin: 0px 5px 0px 5px;
+        margin: 0px 7px auto;
 }
 
 .menu li a {
