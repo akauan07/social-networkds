@@ -54,13 +54,13 @@ body.white-blue {
 }
 
 .menu li {
-
         width: 60px;
         float: left;
         margin: 0px 7px auto;
 }
 
 .menu li a {
+        border: 1px solid var(--primary-color);
         display: block;
         margin-bottom: 5px;
         padding: 2px;
